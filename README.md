@@ -127,7 +127,7 @@ The dataset represents manufacturing operational data and includes:
 
 ## 👤 Author
 
-**Tarun Panditi**
+**Tarun Panditi** |
 Data Analytics Enthusiast | Power BI Developer
 
 ---
