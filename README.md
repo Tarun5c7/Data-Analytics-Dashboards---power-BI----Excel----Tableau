@@ -1,10 +1,19 @@
-# Manufacturing Analysis Dashboard (Power BI)
+# Manufacturing Analysis Dashboard 
 
 ## 📊 Project Overview
 
-The **Manufacturing Analysis Dashboard** is a Power BI project designed to analyze and monitor manufacturing performance through interactive and visual reporting. The dashboard transforms raw manufacturing data into meaningful insights that help stakeholders track efficiency, quality, production trends, and operational bottlenecks.
+The **Manufacturing Analysis Dashboard** is a comprehensive Business Intelligence project developed using:
+Microsoft Excel
+Power BI
+Tableau
 
-This project demonstrates practical skills in **data cleaning, modeling, DAX calculations, and dashboard design** using Power BI.
+The project analyzes and monitors manufacturing performance through interactive dashboards. It transforms raw operational data into meaningful insights to help stakeholders track:
+Production efficiency
+Quality performance
+Cost trends
+Downtime patterns
+Operational bottlenecks
+This project demonstrates practical skills in data cleaning, data modeling, KPI development, and dashboard design across multiple BI tools.
 
 ---
 
@@ -20,10 +29,24 @@ This project demonstrates practical skills in **data cleaning, modeling, DAX cal
 
 ## 🛠 Tools & Technologies Used
 
-* **Power BI Desktop** – Dashboard development and visualization
-* **Power Query** – Data cleaning and transformation
-* **DAX (Data Analysis Expressions)** – KPI and measure calculations
-* **Microsoft Excel / CSV** – Source data format
+📗 Excel
+* Pivot Tables & Pivot Charts
+* Slicers & Interactive Filters
+* Advanced Formulas (SUMIFS, IF, COUNTIFS, XLOOKUP)
+* Data Cleaning & Structuring
+
+📊 Power BI
+* **Power Query** (Data Transformation)
+* Data Modeling & Relationships
+* **DAX** (Data Analysis Expressions)
+* Interactive Visualizations
+
+📈 Tableau
+* Calculated Fields
+* Parameters
+* Dashboard Actions
+* Interactive Filtering
+* Visual Analytics
 
 ---
 
@@ -85,18 +108,33 @@ The dataset represents manufacturing operational data and includes:
 
 ## 📷 Dashboard Preview
 
+📗 Excel Dashboard
+
+<img width="1691" height="569" alt="Screenshot 2026-03-04 112100" src="https://github.com/user-attachments/assets/6df0cec9-e55d-43cb-8a8e-05cd541ff320" />
+
+📊 Power BI Dashboard
+
 <img width="1161" height="655" alt="Manufacturing Ananlysis" src="https://github.com/user-attachments/assets/7ba335dc-ec82-4171-92c6-0f37d6a87b7f" />
+
+📈 Tableau Dashboard
+
+<img width="1655" height="805" alt="Screenshot 2026-03-04 101655" src="https://github.com/user-attachments/assets/77e93f3c-9d79-4936-a542-a27ba6a6a4b9" />
 
 
 ---
 
 ## 🚀 How to Use the Dashboard
 
-1. Download the `.pbix` file from the repository or use this link <a href="https://github.com/Tarun5c7/Data-Analytics-Dashboard---POWERBI/blob/main/Real%20Dashboard_Manufacturing_Analysis%5B1%5D.pbix">.Pbix</a>
-2. Open it using **Power BI Desktop**
-3. Use slicers to filter by date, product, or plant
-4. Interact with visuals to explore insights
-
+1.Download the respective dashboard file:
+ * .xlsx for Excel 
+ * .pbix for Power BI
+ * .twbx for Tableau
+2. Open using:
+ * Microsoft Excel
+ * Power BI Desktop
+ * Tableau Desktop
+3. Use slicers and filters to interact with data.
+   
 ---
 
 ## 📌 Use Cases
